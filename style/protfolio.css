@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header-area{
+    background-color: #FFF8F3;
+}
+.text-primary{
+    color: #FD6E0A;
+}
+.btn-primary{
+    height: 64px;
+    border-radius: 5px;
+    background:#FD6E0A ;
+    width: 150px;
+    height: 64px;
+    border: 0;
+    padding: 18px 35px;
+}
+/* header nav title area */
+nav{
+    display: flex;
+    justify-content: space-between;
+     padding: 50px;
+     align-items: center;
+}
+nav ul{
+    display: flex;
+   align-items: center;
+}
+nav li{
+    list-style: none;
+    margin: 25px;
+}
+
+.nav-title{
+    font-weight: 400;
+    font-size: 45px;
+}
+/* bannar are start */
+.bannar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url(/myimg/header_bg.png), url(/myimg/developer.png);
+    background-repeat: no-repeat;
+    background-position: bottom right, left;
+    padding-left: 100px;
+}
+.hello{
+    font-weight:200;
+    font-size: 30px;
+}
+.my-name{
+    font-weight: 400;
+    font-size: 45px;
+}
+.discription{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+/* about section */
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.about{
+margin-top: 130px;
+
+background: #FFF8F3;
+border-radius: 10px;
+padding: 130px 150px;
+text-align: center;
+}
+.about-me{
+
+
+}
+.section-discription{
+
+}
