@@ -155,3 +155,22 @@ margin: 10px;
     text-align: center;
     margin-top: 50px;
 }
+/* contract section */
+.contract{
+    display: flex;
+    gap: 100px;
+    background: #e3d7ce;
+    height:400px;
+    margin-top: 25px;
+    padding: 100px 130px;
+
+
+} 
+.contract input, textarea{
+    margin:10px 15px;
+    width: 100%;
+    
+}
+.send-sms{
+    text-decoration: none;
+}
