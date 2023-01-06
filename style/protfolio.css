@@ -96,3 +96,62 @@ color:#757575 ;
      font-size: 20px;
      color: #474747;
 }
+/* skill section */
+.waht-i-do{
+    text-align: center;
+    margin: 50px;
+}
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+.skill-title{
+    font-weight: 700;
+     font-size: 20px;
+     color: #474747;
+     margin: 20px;
+}
+.skill{
+    background: #FFFFFF;
+box-shadow: 0px 6px 50px rgba(0, 0, 0, 0.06);
+border-radius: 5px;
+padding: 10px;
+margin: 10px;
+}
+
+/* resume section */
+.resume-title{
+    text-align: center;
+    margin-bottom: 50px;
+    color: #FD6E0A;
+}
+.resume-containt{
+    display: flex;
+    gap: 24px;
+}
+.edu-title{
+    font-weight: 700;
+    font-size: 25px;
+    color: #474747;
+    
+}
+.edu-year{
+    font-weight: 600;
+    font-size: 20px;
+    color: #757575;
+    
+}
+.discription{
+    font-weight: 400;
+    font-size: 16px;
+    color: #757575;
+    
+}
+.edu-dis{
+    margin: 10px;
+    padding: 15px;
+}
+.cv-download{
+    text-align: center;
+    margin-top: 50px;
+}
